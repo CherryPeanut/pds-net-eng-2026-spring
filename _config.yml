@@ -1,9 +1,7 @@
-# 网站基本信息
-title: 综合布线与网络工程
-description: 计算机网络相关专业 | 理论、实操与工程实践
-# 如果你使用了 GitHub Pages 默认域名，baseurl 必须与仓库名一致
-baseurl: "/pds-net-eng-2026-spring" 
-url: "https://Cherrypeanut.github.io"
+title: 综合布线与网络工程 (2026春)
+description: 物联网/计算机网络专业核心课程 - 理论与实战一体化平台
+baseurl: "/pds-net-eng-2026-spring" # 必须与仓库名完全一致，开头带斜杠
+url: "https://Cherrypeanut.github.io" 
 
-# 侧边栏页脚（模仿 CS61 的严谨感）
-footer_content: "© 2026 物联网工程系 - 本课程参考 GB50311-2016 国家标准"
+# 侧边栏页脚，增加物联网专业特色
+footer_content: "© 2026 物联网工程系 | 依据 GB50311-2016 标准设计"
