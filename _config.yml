@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+# 网站基本信息
+title: 综合布线与网络工程
+description: 计算机网络相关专业 | 理论、实操与工程实践
+# 如果你使用了 GitHub Pages 默认域名，baseurl 必须与仓库名一致
+baseurl: "/pds-net-eng-2026-spring" 
+url: "https://Cherrypeanut.github.io"
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# 侧边栏页脚（模仿 CS61 的严谨感）
+footer_content: "© 2026 物联网工程系 - 本课程参考 GB50311-2016 国家标准"
