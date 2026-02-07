@@ -3,7 +3,7 @@
 ![Course-Status](https://img.shields.io/badge/Status-2026_Spring-green)
 ![Standard](https://img.shields.io/badge/Standard-GB50311--2016-blue)
 
-本课程是物联网专业的核心技术课。通过本课程，你将掌握从物理层线缆设计到逻辑层网络拓扑构建的完整技能。
+本课程是计算机网络专业/物联网专业的核心技术课。通过本课程，你将掌握从物理层线缆设计到逻辑层网络拓扑构建的完整技能。
 
 ## 📅 课程信息
 - **时间**：每周 3 节 (80min/节)
